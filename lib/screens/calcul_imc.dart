@@ -30,7 +30,7 @@ class _CalculIMCState extends State<CalculIMC> {
                 margin: const EdgeInsets.only(top: 30),
                 width: sizeX,
                 child: const Text(
-                  'Veuillez renseigner les infos ci-dessous!!!',
+                  'Veuillez renseigner les différentes infos ci-dessous!!!',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 17,
