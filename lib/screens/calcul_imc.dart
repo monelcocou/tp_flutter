@@ -87,7 +87,7 @@ class _CalculIMCState extends State<CalculIMC> {
                     Container(
                       margin: const EdgeInsets.only(top: 30),
                       child: ElevatedButton(
-                        child: const Text('Calculer votre IMC!'),
+                        child: const Text('Calculez votre IMC!'),
                         onPressed: () {
                           setState(() {
                             _resultOperation =
